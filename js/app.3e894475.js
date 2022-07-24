@@ -8,7 +8,7 @@
 					return (0, a.wg)(), (0, a.j4)(s);
 				}
 				var o = r(7139);
-				const s = t => ((0, a.dD)('data-v-e2b74c56'), t = t(), (0, a.Cn)(), t), c = { class: 'hello' }, u = s(() => (0, a._)('h1', null, 'Check out the fallen bird hat friends.', -1)), l = { class: 'card-group' }, f = {
+				const s = t => ((0, a.dD)('data-v-e2b74c56'), t = t(), (0, a.Cn)(), t), c = { class: 'hello' }, u = s(() => (0, a._)('h1', null, 'These birds have been rescued from their NFT fate, bound eternally to the blockchain. They now fly wild and free.', -1)), l = { class: 'card-group' }, f = {
 						class: 'card',
 						style: {
 							width: '25rem',
