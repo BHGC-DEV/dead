@@ -49,7 +49,7 @@
 						},
 						methods: {
 							async fetchData() {
-								let t = 'dead/metadata.json', n = 'dead/status.json';
+								let t = 'metadata.json', n = 'status.json';
 								this.status = await (await fetch(n)).json(), this.metadata = (await (await fetch(t)).json()).filter(t => t.edition >= this.status.starting).sort((t, n) => t.edition - n.edition);
 							}
 						}
